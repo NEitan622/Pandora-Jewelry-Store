@@ -1,0 +1,77 @@
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.deps.json
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfoInputs.cache
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfo.cs
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.CoreCompileInputs.cache
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.dll
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\refint\IDal_Repository.dll
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.pdb
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\ref\IDal_Repository.dll
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.AssemblyReference.cache
+C:\Users\מרים\Desktop\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Rep.DB9DD4D0.Up2Date
+F:\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.deps.json
+F:\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+F:\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+F:\storeProject\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+F:\storeProject\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.AssemblyReference.cache
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfoInputs.cache
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfo.cs
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.CoreCompileInputs.cache
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Rep.DB9DD4D0.Up2Date
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.dll
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\refint\IDal_Repository.dll
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.pdb
+F:\storeProject\IDal_Repository\obj\Debug\net8.0\ref\IDal_Repository.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.deps.json
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Rep.DB9DD4D0.Up2Date
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\refint\IDal_Repository.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\IDal_Repository\obj\Debug\net8.0\ref\IDal_Repository.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.deps.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.AssemblyReference.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfoInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.CoreCompileInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.sourcelink.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Rep.DB9DD4D0.Up2Date
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\refint\IDal_Repository.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\IDal_Repository.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IDal_Repository\obj\Debug\net8.0\ref\IDal_Repository.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\bin\Debug\net8.0\IDal_Repository.deps.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.AssemblyReference.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfoInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Repository.AssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Repository.csproj.CoreCompileInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Repository.sourcelink.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Rep.DB9DD4D0.Up2Date
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\refint\IDal_Repository.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\IDal_Repository.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IDal_Repository\obj\Debug\net8.0\ref\IDal_Repository.dll

@@ -1,0 +1,295 @@
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\appsettings.json
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\storeProject.staticwebassets.endpoints.json
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\storeProject.exe
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\storeProject.deps.json
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\storeProject.runtimeconfig.json
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\storeProject.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\storeProject.pdb
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.csproj.AssemblyReference.cache
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfoInputs.cache
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfo.cs
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.csproj.CoreCompileInputs.cache
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\scopedcss\bundle\storeProject.styles.css
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.storeProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.storeProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.build.storeProject.props
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.storeProject.props
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.storeProject.props
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storePro.EC0D18C0.Up2Date
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\refint\storeProject.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.pdb
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\storeProject.genruntimeconfig.cache
+C:\Users\מרים\Desktop\storeProject\storeProject\obj\Debug\net8.0\ref\storeProject.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Dal_Repository.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\IBll_Services.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\IDal_Repository.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Dal_Repository.pdb
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\IBll_Services.pdb
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Bll_Services.dll
+C:\Users\מרים\Desktop\storeProject\storeProject\bin\Debug\net8.0\Bll_Services.pdb
+F:\storeProject\storeProject\bin\Debug\net8.0\appsettings.Development.json
+F:\storeProject\storeProject\bin\Debug\net8.0\appsettings.json
+F:\storeProject\storeProject\bin\Debug\net8.0\storeProject.staticwebassets.endpoints.json
+F:\storeProject\storeProject\bin\Debug\net8.0\storeProject.exe
+F:\storeProject\storeProject\bin\Debug\net8.0\storeProject.deps.json
+F:\storeProject\storeProject\bin\Debug\net8.0\storeProject.runtimeconfig.json
+F:\storeProject\storeProject\bin\Debug\net8.0\storeProject.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\storeProject.pdb
+F:\storeProject\storeProject\bin\Debug\net8.0\Azure.Core.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Azure.Identity.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.ClientModel.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.Memory.Data.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Bll_Services.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Dal_Repository.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Dto_Common_Enteties.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\IBll_Services.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\IDal_Repository.dll
+F:\storeProject\storeProject\bin\Debug\net8.0\Bll_Services.pdb
+F:\storeProject\storeProject\bin\Debug\net8.0\Dal_Repository.pdb
+F:\storeProject\storeProject\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+F:\storeProject\storeProject\bin\Debug\net8.0\IBll_Services.pdb
+F:\storeProject\storeProject\bin\Debug\net8.0\IDal_Repository.pdb
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.csproj.AssemblyReference.cache
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfoInputs.cache
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfo.cs
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.csproj.CoreCompileInputs.cache
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cs
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cache
+F:\storeProject\storeProject\obj\Debug\net8.0\scopedcss\bundle\storeProject.styles.css
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.build.json
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.development.json
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.storeProject.Microsoft.AspNetCore.StaticWebAssets.props
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.storeProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.build.storeProject.props
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.storeProject.props
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.storeProject.props
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.pack.json
+F:\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\storeProject\storeProject\obj\Debug\net8.0\storePro.EC0D18C0.Up2Date
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.dll
+F:\storeProject\storeProject\obj\Debug\net8.0\refint\storeProject.dll
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.pdb
+F:\storeProject\storeProject\obj\Debug\net8.0\storeProject.genruntimeconfig.cache
+F:\storeProject\storeProject\obj\Debug\net8.0\ref\storeProject.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\appsettings.Development.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\appsettings.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\storeProject.staticwebassets.endpoints.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\storeProject.exe
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\storeProject.deps.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\storeProject.runtimeconfig.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\storeProject.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\storeProject.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Azure.Core.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.ClientModel.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Bll_Services.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Dal_Repository.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Bll_Services.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Dal_Repository.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\bin\Debug\net8.0\IDal_Repository.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\scopedcss\bundle\storeProject.styles.css
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.storeProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.storeProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.build.storeProject.props
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.storeProject.props
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.storeProject.props
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storePro.EC0D18C0.Up2Date
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\refint\storeProject.dll
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\storeProject.genruntimeconfig.cache
+C:\הנדסאים\שנה ב\C#\storeProject\storeProject\obj\Debug\net8.0\ref\storeProject.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.csproj.AssemblyReference.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfoInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.csproj.CoreCompileInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.sourcelink.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\refint\storeProject.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\storeProject\obj\Debug\net8.0\storeProject.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.csproj.AssemblyReference.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfoInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.AssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.csproj.CoreCompileInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.MvcApplicationPartsAssemblyInfo.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.sourcelink.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\refint\storeProject.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\storeProject\obj\Debug\net8.0\storeProject.pdb

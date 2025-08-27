@@ -1,0 +1,11 @@
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Servises.deps.json
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Servises.dll
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Servises.pdb
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Servises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Servises.AssemblyInfoInputs.cache
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Servises.AssemblyInfo.cs
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Servises.csproj.CoreCompileInputs.cache
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Servises.dll
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\refint\IBll_Servises.dll
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Servises.pdb
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\ref\IBll_Servises.dll

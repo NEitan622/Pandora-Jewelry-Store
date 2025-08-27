@@ -1,0 +1,57 @@
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\מרים\Desktop\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll
+F:\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+F:\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+F:\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+F:\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+F:\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+F:\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+F:\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+F:\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+F:\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+F:\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+F:\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.sourcelink.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.sourcelink.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll

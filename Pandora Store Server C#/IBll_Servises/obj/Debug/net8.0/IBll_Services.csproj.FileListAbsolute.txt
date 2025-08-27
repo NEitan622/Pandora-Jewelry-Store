@@ -1,0 +1,77 @@
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.deps.json
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.dll
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.pdb
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.AssemblyReference.cache
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfoInputs.cache
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfo.cs
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.CoreCompileInputs.cache
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Ser.707742D7.Up2Date
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.dll
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\refint\IBll_Services.dll
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.pdb
+C:\Users\מרים\Desktop\storeProject\IBll_Servises\obj\Debug\net8.0\ref\IBll_Services.dll
+F:\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.deps.json
+F:\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.dll
+F:\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.pdb
+F:\storeProject\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.dll
+F:\storeProject\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.AssemblyReference.cache
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfoInputs.cache
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfo.cs
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.CoreCompileInputs.cache
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Ser.707742D7.Up2Date
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.dll
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\refint\IBll_Services.dll
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.pdb
+F:\storeProject\IBll_Servises\obj\Debug\net8.0\ref\IBll_Services.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.deps.json
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Ser.707742D7.Up2Date
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\refint\IBll_Services.dll
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\שנה ב\C#\storeProject\IBll_Servises\obj\Debug\net8.0\ref\IBll_Services.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.deps.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\bin\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.AssemblyReference.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfoInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.CoreCompileInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.sourcelink.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Ser.707742D7.Up2Date
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\refint\IBll_Services.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\storeProject\IBll_Servises\obj\Debug\net8.0\ref\IBll_Services.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\bin\Debug\net8.0\IBll_Services.deps.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\bin\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\bin\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.AssemblyReference.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfoInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Services.AssemblyInfo.cs
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Services.csproj.CoreCompileInputs.cache
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Services.sourcelink.json
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Ser.707742D7.Up2Date
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\refint\IBll_Services.dll
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\פרויקטים בgit\Pandora-Jewelry-Store\Pandora Store Server C#\IBll_Servises\obj\Debug\net8.0\ref\IBll_Services.dll
