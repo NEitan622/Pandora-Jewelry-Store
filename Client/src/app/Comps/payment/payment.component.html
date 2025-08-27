@@ -1,0 +1,39 @@
+<div class="container mt-3 mid">
+    
+    
+    <div class="card img-fluid mid" style="width:550px" >
+        
+        <div>
+            <h1 class="card-title font direction">תשלום</h1>
+        <table class="table">
+            <thead>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td></td> 
+                </tr>
+                <tr>
+                    <td>סכום לתשלום: {{this.pay|currency:'ILS'}}</td>
+                </tr>
+
+                <tr>
+                    <td >הנחת יום הולדת: {{this.orderS.Dorder.difference|currency:'ILS'}} </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <h4 class="card-title font direction">סה"כ לתשלום: {{this.orderS.Dorder.totalSum|currency:'ILS'}}</h4>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    
+    
+
+        <app-button type="button" class="button direction" name="אישור" icon="fa-solid fa-check-double"
+           (click)="updateD()"></app-button>
+        <!-- (sendP)="sal(product)" -->
+    </div>
+</div>
+</div>

@@ -1,0 +1,42 @@
+.my_size{
+
+    width: 7rem;
+    height: auto;
+
+}
+
+.direction{
+    display: flex;
+    justify-content: center;
+    width: 10rem;
+  }
+/* .b{
+    width: 3rem;
+    height: auto;
+} */
+ .dirme{
+    margin-right: 10rem;
+    /* display: flex;
+    align-content: center; */
+    direction: rtl;
+    justify-content: center;
+    /* margin-left: 7rem; */
+    margin-top: 10rem;
+ }
+ .table{
+margin-right: 10rem;
+    width: 60rem;
+    height: auto;
+ }
+ /* .myc{
+  
+    box-shadow: 20px  #b86c6c;
+ } */
+ .mybcolor{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    width: 7rem;
+    height:4rem;
+    background-color: #b86c6c;
+    color: white;
+ }

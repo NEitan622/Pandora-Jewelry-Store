@@ -1,0 +1,209 @@
+/* =========================select */
+
+/* =========================select */
+.nav-item{
+    margin-left: 1.2rem;
+}
+.navbar-nav{
+    direction: ltr;
+}
+/* #fabfca */
+.nav_color{
+       display: flex;
+    align-items: center; /* ממרכז את התוכן אנכית */
+    background-color: white;;
+    text-align: center;
+    position: fixed; /* שומר את div1 בראש הדף */
+    top: 0; /* מיקום בראש הדף */
+    left: 0;
+    width: 100%; /* פריסה לאורך כל הרוחב */
+    /* padding: 5px 0; מרווח פנימי */
+    overflow: hidden; /* מסתיר טקסט שיוצא מהמסגרת */
+    z-index: 999; 
+
+    padding-left: 20%;
+    /* padding-bottom: 1%; */
+    /* margin-top: 1%; */
+    background-color:#f7ccd4 ;
+    height: 2rem;
+    /* width: auto; */
+    /* top :1rem; */
+    margin-bottom: 3rem;
+    /* position: fixed */
+}
+.div1 {
+    display: flex;
+    align-items: center; /* ממרכז את התוכן אנכית */
+    background-color: #F0EAF0;
+    text-align: center;
+    position: fixed; /* שומר את div1 בראש הדף */
+    top: 0; /* מיקום בראש הדף */
+    left: 0;
+    width: 100%; /* פריסה לאורך כל הרוחב */
+    /* padding: 5px 0; מרווח פנימי */
+    overflow: hidden; /* מסתיר טקסט שיוצא מהמסגרת */
+    z-index: 999; 
+    margin-bottom: 20rem;
+
+}
+
+.text-container {
+    
+    display: inline-flex; /* שומר את הטקסטים בשורה אחת */
+    animation: moveText 30s linear infinite; /* האנימציה מפעילה את כל התוכן יחד */
+    white-space: nowrap; /* מבטיח שהטקסט לא נשבר */
+}
+.text-container p{
+    padding-left: 20%;
+    /* padding-bottom: 1%; */
+    margin-top: 1%;
+}
+
+@keyframes moveText {
+    from {
+        transform: translateX(100%); /* מתחיל מחוץ לדיב מימין */
+    }
+    to {
+        transform: translateX(-100%); /* מסיים מחוץ לדיב משמאל */
+    }
+}
+
+
+.nav-container {
+    width: 100%; /* פריסה מלאה */
+    position: fixed; /* שומר את הניווט במיקום קבוע */
+    top: 2rem; /* מיקום מתחת ל-div1 */
+    left: 0;
+   
+    z-index: 999; 
+    background-color: white; /* צבע רקע לניווט */
+    border-bottom: 2px solid #ddd; /* גבול תחתון */
+    margin-bottom: 50rem;
+}
+
+.nav {
+    display: flex;
+    /* justify-content: space-around; פיזור האלמנטים באופן שווה */
+    align-items: center;
+    padding: 10px 20px;
+    
+}
+
+.nav-icons {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+    margin-left: 75%;
+}
+.nav-icons p{
+    cursor: pointer;
+}
+.nav-icons p:hover{
+    color:#f7ccd4
+}
+.nav-icons img{
+    height: 30px
+    ;
+    width: 30px;
+     
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    /* margin-left: 170%; */
+    max-height: 75px;
+    object-fit: contain;
+}
+
+.categories {
+    width: 100%; /* נוודא שהקטגוריות תופסות את כל הרוחב */
+    text-align: center; /* ממרכז את הקטגוריות */
+    padding-top: 20px; /* מרווח בין הלוגו לקטגוריות */
+    padding-bottom: 20px;
+}
+
+.categories p {
+    margin: 0;
+    padding-top: 0%;
+    font-size: 17px;
+    cursor: pointer;
+    white-space: nowrap;
+    display: inline-block; /* כל קטגוריה בשורה נפרדת */
+    padding: 5px 15px; /* למרווח בין הקטגוריות */
+}
+
+.categories p:hover {
+    color:#f4c2c2 ; /* צבע משתנה בהצבעה */
+    /* text-decoration: underline; */
+}
+.home_img img {
+    margin-top: 14%;
+    width: 100% !important;
+    /* height: 550px; */
+    object-fit: contain;
+    
+}
+.sidebar {
+      z-index: 1000; 
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 400px;
+    height: 100%;
+    background-color:#fff ;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+    padding: 40px;
+    transition: left 0.3s ease;
+    overflow-y: auto;
+    direction: rtl;
+  }
+  
+  .sidebar.active {
+    left: 0;
+  }
+  
+  .close-btn {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  
+  form label {
+    display: block;
+    margin-top: 15px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+  }
+  
+  .register-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #f4c2c2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }

@@ -1,0 +1,21 @@
+<div class="aaa">
+<div class="categories  mt-3 menu">
+
+  <ul class="u nav " >
+    @for (c1 of c; track c1.id) {
+    <li class="newc nav-item">
+      <button (click)="filter(c1)" class="newc  " >{{c1.name}}</button>
+    </li>
+
+    }
+    <li>    
+      <input type="number" class=" input" id="price" placeholder="הגבל במחיר" min="1" [(ngModel)]="price">
+     
+    </li>
+    <li>
+      <app-button name="סנן" class="mybutton" (click)="filter(this.cat)" ></app-button>
+    </li>
+  </ul>
+</div>
+</div>
+

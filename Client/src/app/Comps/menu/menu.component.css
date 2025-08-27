@@ -1,0 +1,131 @@
+.menu{
+    direction: rtl;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.input {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    border-radius: 7px;
+    padding: 0.7rem 1rem;
+    background-color: transparent;
+    /* border: none; */
+    height: 85%;
+    width: 100%;
+    box-sizing: border-box;
+    outline: 1px solid var(--line);
+    border: 1px  black solid ;
+  }
+  
+  .input:focus {
+    outline: 1px solid var(--line-active);
+  }
+  
+  .input[type="submit"] {
+    cursor: pointer;
+  }
+  
+  .label {
+    background-color: var(--bg);
+    justify-self: start;
+    transition-property: transform, padding, font-size;
+    transition-duration: 0.3s;
+    margin: 0 1rem;
+    pointer-events: none;
+  }
+  
+  .label,
+  .input {
+    grid-column-start: 1;
+    grid-row-start: 1;
+  }
+  
+  .input:focus ~ .label,
+  .input:not(:placeholder-shown) ~ .label {
+    transform: translateY(-124%);
+    font-size: 0.8rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+  }
+/* שום דבר לא דורס עיצוב לא הצלחתי להגדיל לשנות צבע... */
+/* .my{
+    font-weight: bold;
+    color: aqua;
+} */
+.categories {
+   
+    width: 100%; /* נוודא שהקטגוריות תופסות את כל הרוחב */
+    text-align: center; /* ממרכז את הקטגוריות */
+    padding-top: 20px; /* מרווח בין הלוגו לקטגוריות */
+    padding-bottom: 20px;
+}
+
+.categories p .u{
+    margin: 0;
+    padding-top: 0%;
+    font-size: 17px;
+    cursor: pointer;
+    white-space: nowrap;
+    display: inline-block; /* כל קטגוריה בשורה נפרדת */
+    padding: 5px 15px; /* למרווח בין הקטגוריות */
+}
+
+.categories p:hover .newc:hover{
+    color:#f4c2c2 ; /* צבע משתנה בהצבעה */
+    /* text-decoration: underline; */
+}
+.aaa{
+    margin-top: 7rem;
+}
+text-container {
+    
+    display: inline-flex; /* שומר את הטקסטים בשורה אחת */
+    animation: moveText 30s linear infinite; /* האנימציה מפעילה את כל התוכן יחד */
+    white-space: nowrap; /* מבטיח שהטקסט לא נשבר */
+}
+.text-container p .newc{
+    padding-left: 20%;
+    /* padding-bottom: 1%; */
+    margin-top: 1%;
+}
+
+@keyframes moveText {
+    from {
+        transform: translateX(100%); /* מתחיל מחוץ לדיב מימין */
+    }
+    to {
+        transform: translateX(-100%); /* מסיים מחוץ לדיב משמאל */
+    }
+}
+form label {
+    display: block;
+    margin-top: 15px;
+  }
+  
+  form input  {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .newc{
+    background-color:  white;
+    border: none;
+    margin: 0.3rem;
+    /* margin-right: 0.3rem; */
+  }
+.btn{
+    background-color:  white;
+    border: none;
+    margin: 0.3rem;
+}
+.mybutton{
+    color: #ffcad2;
+    width: 85%;
+}
+  
+  

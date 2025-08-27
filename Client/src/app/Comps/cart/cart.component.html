@@ -1,0 +1,34 @@
+<div class="container mt-3 dirme">
+    <h3 class="dirme">הקניות שלי</h3>
+    <!-- <p>The .table class adds basic styling (light padding and horizontal dividers) to a table:</p>             -->
+    <table class="table dirme">
+        <thead>
+            <tr>
+                 <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th> 
+                <th></th>  
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for(p of this.salS.sal ;track p.id){
+            <tr class="myc">
+                <td> <i class="fa-solid fa-trash-alt" (click)="del(p)"></i></td>
+                <td >{{p.sum|currency:'ILS'}}</td>
+                <td>{{p.description}}</td>
+                <td><i class="my_size" class="fa-solid fa-plus" (click)="plus(p)" ></i>{{ p.quantity}}<i class="my_size" class="fa-solid fa-minus" (click)="minus(p)"></i></td>
+                <td>{{p.price|currency:'ILS'}}</td>
+                <td>{{p.name}}</td>
+                <td><img [src]="p.name+'.png'" class="my_size" /></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+   
+</div>
+<div>
+<app-button type="button" icon="fa-regular fa-credit-card" name="לתשלום" class="direction " style="width: 10rem " style="height: 5rem;" style="margin-left: 30rem;" (click)="pay()"></app-button>
+<app-button type="button" icon="fa-solid fa-angle-double-right" name="חזרה" class="direction " style="width: 10rem " style="height: 5rem;" style="margin-left: 30rem;" (click)="store()"></app-button></div>

@@ -1,0 +1,25 @@
+.sale{
+ 
+  border: #d75e74 double 5px;
+}
+.font{
+  font-size: medium;
+  padding-bottom: 10px;
+}
+.direction{
+  display: flex;
+  justify-content: center;
+}
+.card-text{
+  justify-content: center;
+}
+.card{
+  width:400px;
+  height:370px;
+  background-color: #fcf4f4;
+}
+.img{
+  width: 200px;
+  margin-left: 100px;
+ 
+}

@@ -1,0 +1,84 @@
+<div class="space">
+<div class="container mt-3 place sidebarr" [hidden]="toRegister" >
+  <i class="fa-solid fa-times " (click)="back()"></i>
+    <h3> שווה להצטרף </h3>
+
+    <form class="was-validated "  #myForm="ngForm">
+      <div class="mb-3 mt-3">
+        <label for="uname" class="form-label ">שם לקוח: </label>
+        <input type="text" class="form-control" id="uname" placeholder="הכנס של לקוח" name="uname" [(ngModel)]="customer.name"
+          required #cName="ngModel" maxlength="20" pattern="[א-ת]*">
+     
+          @if(cName.invalid && (cName.dirty||cName.touched))
+          {
+             <div class="invalid-feedback">
+              <p [hidden]="!cName.errors!['required']">שדה חובה</p>
+              <p [hidden]="!cName.errors!['maxlength']">שם אינו מכיל יותר מ-20 תווים</p>
+             </div>
+          }
+         
+      </div>
+      <div class="mb-3">
+        <label for="phone" class="form-label">טלפון: </label>
+        <input type="text" class="form-control" id="phone" placeholder="הכנס מספר טלפון" name="phone" 
+          [(ngModel)]="customer.phone" required  pattern="\d{9,10}"
+          #cPhone="ngModel">
+          @if(cPhone.invalid&&(cPhone.touched|| cPhone.dirty))
+          {
+           <p [hidden]="!cPhone.errors!['minlength']">קצר מידי</p>
+           <p [hidden]="!cPhone.errors!['pattern']">תווים לא תקינים </p>
+           <p [hidden]="!cPhone.errors!['required']">שדה חובה</p>
+          }
+       
+      </div>
+      <div class="mb-3 " >
+        <label for="email" class="form-label">הכנס כתובת מייל:</label>
+        <input type="email" class="form-control" id="email" placeholder="כתובת מייל" 
+        name="email" [(ngModel)]="customer.email" min="11" max="30" required  #cEmail="ngModel">
+        @if(cEmail.invalid&&(cEmail.touched|| cEmail.dirty))
+        {
+         <p [hidden]="!cEmail.errors!['min']">כתובת מייל לא חוקי</p>
+         <p [hidden]="!cEmail.errors!['max']">כתובת מייל לא חוקי</p>
+         
+         <p [hidden]="!cEmail.errors!['required']">שדה חובה</p>
+        }
+      </div>
+      <div class="mb-3">
+        <label for="d" class="form-label">תאריך לידה:</label>
+        <input type="date" class="form-control" id="d" placeholder="תאריך לידה" name="d"
+        required [(ngModel)]="customer.birthdate"  #cBD="ngModel">
+        @if(cBD.invalid&&(cBD.touched|| cBD.dirty))
+        {
+         <p>תאריך לא תקין</p>
+         <p [hidden]="!cName.errors!['required']">שדה חובה</p>
+        }
+      </div>
+      <app-button type="submit"  class="button direction" name="הצטרפות" icon="fa-solid fa-user-plus" (click)="save()" ></app-button> 
+     
+    </form>
+  </div>
+
+  <div class="container mt-3 place sidebar" [hidden]="!toRegister">
+    <i class="fa-solid fa-times" (click)="back()"></i>
+    <h3>התחברות</h3>
+
+    <form class="was-validated" (ngSubmit)="connect()" #myForm="ngForm">
+   
+      <div class="mb-3">
+        <label for="email" class="form-label">הכנס כתובת מייל:</label>
+        <input type="email" class="form-control" id="email" placeholder="כתובת מייל" 
+        name="email" [(ngModel)]="ec" min="11" max="30" required  #cEmail="ngModel">
+        @if(cEmail.invalid&&(cEmail.touched|| cEmail.dirty))
+        {
+         <p [hidden]="!cEmail.errors!['min']">כתובת מייל לא חוקי</p>
+         <p [hidden]="!cEmail.errors!['max']">כתובת מייל לא חוקי</p>
+         
+         <p [hidden]="!cEmail.errors!['required']">שדה חובה</p>
+        }
+      </div>
+
+      <app-button type="submit"  class="button direction" name="התחברות" icon="fa-solid fa-user-plus" ></app-button> 
+   
+    </form>
+  </div>
+</div>

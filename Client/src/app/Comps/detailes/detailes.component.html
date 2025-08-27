@@ -1,0 +1,31 @@
+
+<!-- <p>כאן להוסיף back חזרה אחורה לחנות</p> -->
+
+    <main>
+      
+      <img class="headset" [src]="this.currentP.name+'.png'"alt="headphones set with pink color" style="height: 180px;" />
+
+      <div id="cart-text">
+        <button class="free-shipping">{{this.currentP.description}}</button>
+        <h2>{{this.currentP.name}}</h2>
+        <!-- <h3>{{this.currentP.price+4|currency:'ILS'}}</h3> -->
+        <h1>{{this.currentP.price|currency:'ILS'}}</h1>
+        <h4>Pandora האחריות תקפה לשנה ממעוד הזמנת המוצר בכפוף לתקנון </h4>
+        <button class="add-to-cart" (click)="sal()">הוסף לסל</button>
+        <h2 class="stock">
+          <img class=".img" src="pandora.png" height="30px"><img/>
+          {{this.currentP.collectionName}}
+        </h2>
+
+        <div id="buttons">
+          <button class="add-to-cart-2">
+            <i class="fa-solid fa-cart-shopping" (click)="sal()" ></i> Add to Cart
+          </button>
+          <button class="add-to-wishlist">
+            <i class="fa-solid fa-heart"></i> Add to wishlist
+          </button>
+        </div>
+      </div>
+       
+    </main>
+ 
